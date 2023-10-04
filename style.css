@@ -126,7 +126,7 @@ img.img-circle.media-object {
 
 
 #lgx-skills {
-    background: url(../images/myskills.jpg) center center no-repeat fixed;
+    background: url(./images/myskills.jpg) center center no-repeat fixed;
     -webkit-background-size: cover;
     -o-background-size: cover;
     -moz-background-size: cover;
